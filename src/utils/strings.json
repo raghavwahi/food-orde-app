@@ -1,0 +1,19 @@
+{
+  "headerMessage": "React Meals",
+  "mealsImageAlt": "A table full of delicious food!",
+  "cartIconMessage": "Your Cart",
+  "mealsSummaryHeader": "Delicious Food, Delivered To You",
+  "mealsSummaryP1": "Choose your favorite meal from our broad selection of available meals and enjoy a delicious lunch or dinner at home.",
+  "mealsSummaryP2": "All our meals are cooked with high-quality ingredients, just-in-time and of course by experienced chefs!",
+  "addFormButton": "+ Add",
+  "addFormInputLabel": "Amount",
+  "addFormInputId": "amount_",
+  "addFormInputType": "number",
+  "addFormInputMin": "1",
+  "addFormInputMax": "5",
+  "addFormInputStep": "1",
+  "addFormInputdefaultValue": "1",
+  "cartActionButtonClose": "Close",
+  "cartActionButtonOrder": "Order",
+  "quantityValidationMessage": "Please entered a valid amount"
+}
